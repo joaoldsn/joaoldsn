@@ -38,24 +38,6 @@ Tenho interesse em:
 
 ---
 
-# Projetos em Destaque
-
-## Chatbot com IA
-Sistema experimental de chatbot utilizando lógica conversacional e estruturação de prompts técnicos.
-
-### Tecnologias:
-- Python
-- APIs
-- Prompt Engineering
-
-### Objetivos:
-- Simular atendimento inteligente
-- Trabalhar contexto de conversa
-- Melhorar respostas automatizadas
-
----
-
 # Redes
 
 [LinkedIn] (www.linkedin.com/in/joão-ldsn)  
-[GitHub] (https://github.com/joaoldsn)
