@@ -7,19 +7,19 @@ Atualmente estudando desenvolvimento web, engenharia de prompts e arquitetura de
 
 # Habilidades Técnicas
 ```
-## Linguagens
+Linguagens
 - JavaScript
 - Python
 - SQL
 
-## Front-end
+Front-end
 - HTML5
 - CSS3
 
-## Banco de Dados
+Banco de Dados
 - MySQL
 
-## Ferramentas
+Ferramentas
 - Git
 - GitHub
 - Visual Studio
