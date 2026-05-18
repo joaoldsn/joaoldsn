@@ -65,7 +65,9 @@ Também estudo boas práticas de:
 - Git
 - GitHub
 - Figma
-- Postman
+- VsCode
+- Miro
+- Colab
 
 ## Conceitos
 - Lógica de Programação
