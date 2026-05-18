@@ -108,5 +108,5 @@ Sistema experimental de chatbot utilizando lógica conversacional e estruturaç�
 
 # Redes
 
-[LinkedIn] (SEU-LINKEDIN)  
-[GitHub] (https://github.com/SEU-USUARIO)
+[LinkedIn] (www.linkedin.com/in/joão-ldsn)  
+[GitHub] (https://github.com/joaoldsn)
