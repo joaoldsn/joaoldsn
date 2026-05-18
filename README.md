@@ -1,12 +1,12 @@
 # Sobre mim
-Sou um estudante de Análise e Desenvolvimento de Sistemas, Focado em Estrutura de Prompts, Inteligência Artificial e Lógica de Programação.
-Desenvolvendo projetos voltados para automação, IA aplicada e experiências inteligentes  
-Atualmente estudando desenvolvimento web, engenharia de prompts e arquitetura de sistemas
+Sou um estudante de Análise e Desenvolvimento de Sistemas, melhorando as minhas habilidades em programação através do desenvolvimentos de projetos, me ajudando a entender a arquitetura de sistemas e lógica da programação.
+
+Atualmente estudando desenvolvimento web, engenharia de prompts e arquitetura de sistemas, buscando constantemente evoluir as minhas habilidades para construir projetos mais profissionais e organizados.
 
 ---
 
 # Habilidades Técnicas
-
+```
 ## Linguagens
 - JavaScript
 - Python
@@ -26,7 +26,7 @@ Atualmente estudando desenvolvimento web, engenharia de prompts e arquitetura de
 - Google Colab
 - Figma
 - Miro
-
+```
 ---
 
 # Redes
