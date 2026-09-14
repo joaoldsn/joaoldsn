@@ -43,12 +43,7 @@ Sistema desenvolvido em **Python** para controle e gerenciamento de produtos.
 
 **Principais funcionalidades:**
 
-* Cadastro e atualização de produtos;
-* Entrada e saída de estoque;
-* Consulta de produtos;
-* Relatórios de estoque;
-* Integração com banco de dados **SQLite3**;
-* Organização do código utilizando funções modulares.
+* Cadastro e atualização de produtos, entrada e saída de estoque, consulto de produtos e relatórios de estoque junto da integração com banco de dados **SQLite3**.
 
 **Tecnologias:**
 
@@ -61,17 +56,11 @@ Sistema desenvolvido em **Python** para controle e gerenciamento de produtos.
 
 ### GameGPT - Chatbot Especialista em Jogos
 
-Chatbot desenvolvido para consultar informações sobre jogos da **Steam** e fornecer respostas contextualizadas ao usuário.
-
-O projeto utiliza uma **LLM (Llama 3.3 70B)** integrada por meio do **LangChain** e da infraestrutura da **Groq**, além de consumir dados da plataforma Steam.
+Chatbot desenvolvido para consultar informações sobre jogos da **Steam** e fornecer respostas contextualizadas ao usuário. O projeto utiliza uma **LLM (Llama 3.3 70B)** integrada por meio do **LangChain** e da infraestrutura da **Groq**, além de consumir dados da plataforma Steam.
 
 **Principais recursos:**
 
-* Consulta de informações sobre jogos;
-* Coleta de dados da Steam;
-* Processamento e contextualização das informações;
-* Integração com modelo de linguagem;
-* Aplicação de técnicas de **Engenharia de Prompt**.
+* Consulta de informações sobre jogos/ferramentas, Coleta de dados da Steam e integrações com modelos de linguagem.
 
 **Tecnologias:**
 
