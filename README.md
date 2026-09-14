@@ -8,7 +8,7 @@
   <h3>Estudante de Análise e Desenvolvimento de Sistemas</h3>
 
   <p>
-    Python • C • HTML • CSS • MySQL • Desenvolvimento de Software
+    Python • C • HTML • CSS • MySQL
   </p>
 
   <p>
